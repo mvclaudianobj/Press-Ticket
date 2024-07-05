@@ -55,6 +55,7 @@ Um sistema de tickets muito simples baseado em mensagens do WhatsApp, que permit
 - [Instalador Automático](https://github.com/tonnybarros/install_pressticket-phpmyadmin);
 - [phpmyadmin](https://github.com/mvclaudianobj/Press-Ticket/blob/main/docs/INSTALL_phpmyadmin.md); e
 - [Fuso Horário](https://github.com/mvclaudianobj/Press-Ticket/blob/main/docs/INSTALL_horarioVPS.md).
+
 COMANDO DE AJUSTE FRONTEND
 - export NODE_OPTIONS=--openssl-legacy-provider
 
